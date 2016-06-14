@@ -1,5 +1,22 @@
-.contenido{
-	margin-left: 30%;
-	margin-right: 30%;
+body{
 	background: blue;
+}
+h1{
+	color: rgba(100,200,50,.3);
+}
+
+form{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+textarea{
+	width: 100%;
+}
+
+
+input{
+
+	width: 100%;
 }
